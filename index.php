@@ -10,7 +10,7 @@
 <div class="container">
 	<div class="row">
 		<div class="hero-unit">
-			<h1>Hello World</h1>
+			<h1>Hello Digpen</h1>
 			<p>2 + 2 = <?php echo $result; ?></p>
 		</div>
 	</div>
