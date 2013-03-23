@@ -1,4 +1,5 @@
 <?php
+$va = "Digpen";
 	$result = 2;
 ?>
 <html>
@@ -10,7 +11,7 @@
 <div class="container">
 	<div class="row">
 		<div class="hero-unit">
-			<h1>Hello Digpen</h1>
+			<h1>Hello <?php echo $va; ?></h1>
 			<p>2 + 2 = <?php echo $result; ?></p>
 		</div>
 	</div>
